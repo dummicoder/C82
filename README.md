@@ -1,2 +1,2 @@
-# C82
-Stack Navigation
+# book-santa-stage-6
+Stage - 6
